@@ -120,7 +120,7 @@ Data Channel (RFC 8831):
 
 展示如何通过 SCTP 流打开数据通道。
 
-## 第五部分：标准化推流 —— WHIP 协议
+### 第五部分：标准化推流 —— WHIP 协议
 
 核心 RFC: RFC 9725 (WebRTC-HTTP Ingestion Protocol)。
 
